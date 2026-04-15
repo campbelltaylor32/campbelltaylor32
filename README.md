@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hello I'm Campbell Taylor, a passionate data enthusiast with a strong background in statistics and a keen interest in applying data science to various fields, especially sports. Here's a bit about my journey:
+Hello I'm Campbell Taylor, a data scientist with a strong background in statistics and a keen interest in applying data science to various fields, especially sports. Here's a bit about my journey:
 
 - **Education**:
   - Graduated from The Ohio State University with a degree in Statistics.
